@@ -1,0 +1,1 @@
+python object_tracker.py --weights ./checkpoints/yolov4-tiny-416 --model yolov4 --video 0 --output ./outputs/webcam.avi --tiny
