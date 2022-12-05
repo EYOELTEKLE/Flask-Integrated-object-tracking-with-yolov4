@@ -12,7 +12,7 @@
 - pip install Flask
 - python object-tracker.py 
 
-## Video recording is saved on outputs folder
-## then run object-tracker.py from your CMD like above
+### Video recording is saved on outputs folder
+### then run object-tracker.py from your CMD like above
 ### By - Eyoel Tekle
 
